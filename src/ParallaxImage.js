@@ -9,7 +9,8 @@ export class ParallaxImage extends Component {
       backgroundPosition: "center",
       backgroundRepeat: "no-repeat",
       backgroundSize: "cover",
-      minHeight: "800px"
+      minHeight: "800px",
+      maxWidth: "100%"
     };
     return (
       <div>
