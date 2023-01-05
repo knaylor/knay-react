@@ -17,7 +17,7 @@
   "devDependencies": {
     "braces": "^2.3.1",
     "gh-pages": "^1.2.0",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.1"
   },
   "homepage": "http://knaylor.github.io/knay-react",
   "scripts": {
